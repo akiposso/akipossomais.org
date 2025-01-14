@@ -91,7 +91,7 @@ sections:
         <div class="responsive-embed widescreen" style="width:100%;margin:0;padding:0">
             <div class="embed video-player">
                 <iframe class="youtube-player" type="text/html" width="640" height="385"
-                        src="http://www.youtube.com/embed/QRZgIVa6P7w" allowfullscreen frameborder="0">
+                        src="https://www.youtube.com/embed/QRZgIVa6P7w" allowfullscreen frameborder="0">
                 </iframe>
             </div>
         </div>
@@ -447,7 +447,7 @@ sections:
         <div class="responsive-embed widescreen" style="width:100%;margin:0;padding:0">
             <div class="embed video-player">
                 <iframe class="youtube-player" type="text/html" width="640" height="385"
-                        src="http://www.youtube.com/embed/YHwfnxoL8b0" allowfullscreen frameborder="0">
+                        src="https://www.youtube.com/embed/YHwfnxoL8b0" allowfullscreen frameborder="0">
                 </iframe>
             </div>
         </div>
@@ -490,7 +490,7 @@ sections:
         <div class="responsive-embed widescreen" style="width:100%;margin:0;padding:0">
             <div class="embed video-player">
                 <iframe class="youtube-player" type="text/html" width="640" height="385"
-                        src="http://www.youtube.com/embed/8qua88hweX8" allowfullscreen frameborder="0">
+                        src="https://www.youtube.com/embed/8qua88hweX8" allowfullscreen frameborder="0">
                 </iframe>
             </div>
         </div>
@@ -527,7 +527,7 @@ sections:
         </tr>
         <tr>
           <td>Site</td>
-          <td><a href="http://www.akipossomais.org">akipossomais.org</a></td>
+          <td><a href="https://www.akipossomais.org">akipossomais.org</a></td>
         </tr>
         <tr>
           <td>Facebook</td>
