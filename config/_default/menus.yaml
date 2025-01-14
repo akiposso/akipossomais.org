@@ -1,0 +1,21 @@
+# Navigation Links
+#   To link a page section, specify the URL as a hash `/#` followed by the `id` of the section.
+#   The `weight` parameter defines the order that the links will appear in.
+
+main:
+  - name: Associação Todos+
+    url: /#sobre
+    weight: 10
+  - name: App AKIPOSSO+
+    url: /#baixe-o-app
+    weight: 20
+  - name: Como funciona
+    url: /#como-funciona
+    weight: 30
+  - name: Nossos Parceiros
+    url: /#parceiros
+    weight: 40
+  - name: Resultados
+    url: /#resultados
+    weight: 50
+    
