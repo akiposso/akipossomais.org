@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: AKIPOSSO+ # Website name
-baseURL: 'https://akipossomais.org/' # Website URL
+baseURL: 'https://novo.akipossomais.org/' # Website URL
 
 ############################
 ## PAGE OPTIONS
