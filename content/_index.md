@@ -481,11 +481,11 @@ sections:
         <a class="link-preview-widget-image" href="https://www.uol.com.br/tilt/colunas/quebrada-tech/2022/08/31/app-aproxima-moradoras-de-empregos-e-cursos-nas-periferias-de-sao-paulo.htm" rel="noopener" style="background-image: url('https://conteudo.imguol.com.br/c/noticias/d8/2022/08/29/moradora-usa-o-app-da-akiposso-1661793130909_v2_900x506.jpg');" target="_blank"></a></div></p>
 
         <p><div class="link-preview-widget">
-        <a href="https://akipossomais.org/akiposso-destaca-inovacao-e-mobilidade-social-na-glocal-2023/" rel="noopener" target="_blank">
+        <a href="https://blog.akipossomais.org/akiposso-destaca-inovacao-e-mobilidade-social-na-glocal-2023/" rel="noopener" target="_blank">
         <div class="link-preview-widget-title">AKIPOSSO+ destaca Inovação e Mobilidade Social na GLOCAL 2023</div>
         <div class="link-preview-widget-description">O aplicativo AKIPOSSO+, plataforma pioneira de inclusão e mobilidade social, está entusiasmado em anunciar sua participação na Glocal Experience Rio 2023, uma das maiores conferências globais de ideias e ações para o cumprimento da Agenda 2030, baseadas nos 17 objetivos de Desenvolvimento Sustentável (ODS) da ONU.</div>
-        <div class="link-preview-widget-url">akipossomais.org</div></a>
-        <a class="link-preview-widget-image" href="https://akipossomais.org/akiposso-destaca-inovacao-e-mobilidade-social-na-glocal-2023/" rel="noopener" style="background-image: url('https://akipossomais.org/wp-content/uploads/2023/11/img92431-768x1024.jpg');" target="_blank"></a></div></p>
+        <div class="link-preview-widget-url">blog.akipossomais.org</div></a>
+        <a class="link-preview-widget-image" href="https://blog.akipossomais.org/akiposso-destaca-inovacao-e-mobilidade-social-na-glocal-2023/" rel="noopener" style="background-image: url('https://blog.akipossomais.org/wp-content/uploads/2023/11/img92431-768x1024.jpg');" target="_blank"></a></div></p>
 
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1VN8TgcY0FyA71Lmur9clA?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
