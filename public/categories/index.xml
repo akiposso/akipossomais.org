@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | AKIPOSSO&#43;</title>
-    <link>https://akipossomais.org/categories/</link>
-      <atom:link href="https://akipossomais.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/categories/</link>
+      <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://akipossomais.org/media/logo_hu389685737956213185.png</url>
+      <url>http://localhost:1313/media/logo_hud23f1f6d3e444db5c545023608bf5393_48035_300x300_fit_lanczos_3.png</url>
       <title>Categories</title>
-      <link>https://akipossomais.org/categories/</link>
+      <link>http://localhost:1313/categories/</link>
     </image>
     
   </channel>
