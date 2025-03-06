@@ -13,11 +13,34 @@
     </image>
     
     <item>
+      <title>Desconto&#43; Social</title>
+      <link>http://localhost:1313/floresta/acao/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/floresta/acao/</guid>
+      <description>&lt;style&gt;
+    main .container:last-child {
+        display: none !important;
+    }
+&lt;/style&gt;
+&lt;h2 id=&#34;resumo&#34;&gt;Resumo&lt;/h2&gt;
+&lt;p&gt;Este é o texto sobre o Desconto+ Social&lt;/p&gt;
+&lt;p&gt;Explicar como funciona&lt;/p&gt;
+&lt;p&gt;Links para os apps akiposso+ e superclube&lt;/p&gt;
+&lt;p&gt;Detalhar o passo a passo, possivelmente incluir um vídeo&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Regulamento da ação social - DESCONTO&#43;</title>
       <link>http://localhost:1313/floresta/regulamento/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/floresta/regulamento/</guid>
-      <description>&lt;h3 id=&#34;idealizadorapromotora&#34;&gt;IDEALIZADORA/PROMOTORA:&lt;/h3&gt;
+      <description>&lt;style&gt;
+    main .container:last-child {
+        display: none !important;
+    }
+&lt;/style&gt;
+&lt;h3 id=&#34;idealizadorapromotora&#34;&gt;IDEALIZADORA/PROMOTORA:&lt;/h3&gt;
 &lt;p&gt;ASSOCIAÇÃO TODOS+ - CNPJ: 38.186.323/0001-01&lt;br&gt;
 ENDEREÇO: Av. Brigadeiro Faria Lima, 1811 – cj: 305 – Jdm Paulistano&lt;br&gt;
 CEP: 01452-001 – SÃO PAULO - SP&lt;/p&gt;
