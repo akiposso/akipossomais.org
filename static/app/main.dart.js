@@ -38498,7 +38498,7 @@ A.w1.prototype={
 al(){var s="[0-9]",r=$.an(),q=t.N,p=t.bN
 return new A.O4(new A.mQ(B.cI,r),new A.mQ(B.cI,r),new A.mQ(B.cI,r),new A.mQ(B.cI,r),A.aps(A.at(["#",A.dc(s,!0,!1)],q,p),"###.###.###-##",B.eo),A.aps(A.at(["#",A.dc(s,!0,!1)],q,p),"(##) #####-####",B.eo),A.aps(A.at(["#",A.dc(s,!0,!1)],q,p),"####",B.eo),null,null)}}
 A.O4.prototype={
-M(a){var s,r,q=this,p=null,o=A.b([B.m5,B.io],t.t_),n=A.auK(A.auA(A.apd("images/cross-blue4.png",B.a9,p),100,100,30,10,5)),m=t.E,l=A.b([new A.da(B.iM,A.d0(A.avz("images/logo.svg","Logo AKIPOSSO+"),40,p),p),A.d0(p,32,p),A.et("Identifica\xe7\xe3o",p,p,p,A.dn(p,p,B.cm,p,p,p,p,p,p,p,p,24,p,p,B.bp,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.et("Para identifica\xe7\xe3o, precisamos do seu telefone com o DDD.\n                      \nEnviaremos uma mensagem de texto (SMS) com um c\xf3digo de acesso para voc\xea confirmar sua identidade.\n                      \nN\xe3o ser\xe3o cobradas tarifas de mensagens.",p,p,p,A.dn(p,p,B.cm,p,p,p,p,p,p,p,p,16,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.d0(p,16,p),new A.q1(q.d,q.Q,A.rG(B.Gk,p,p,p),"Telefone com o DDD",!q.y,p)],m)
+M(a){var s,r,q=this,p=null,o=A.b([B.m5,B.io],t.t_),n=A.auK(A.auA(A.apd("assets/images/cross-blue4.png",B.a9,p),100,100,30,10,5)),m=t.E,l=A.b([new A.da(B.iM,A.d0(A.avz("assets/images/logo.svg","Logo AKIPOSSO+"),40,p),p),A.d0(p,32,p),A.et("Identifica\xe7\xe3o",p,p,p,A.dn(p,p,B.cm,p,p,p,p,p,p,p,p,24,p,p,B.bp,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.et("Para identifica\xe7\xe3o, precisamos do seu telefone com o DDD.\n                      \nEnviaremos uma mensagem de texto (SMS) com um c\xf3digo de acesso para voc\xea confirmar sua identidade.\n                      \nN\xe3o ser\xe3o cobradas tarifas de mensagens.",p,p,p,A.dn(p,p,B.cm,p,p,p,p,p,p,p,p,16,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.d0(p,16,p),new A.q1(q.d,q.Q,A.rG(B.Gk,p,p,p),"Telefone com o DDD",!q.y,p)],m)
 B.b.F(l,q.y?A.b([A.d0(p,20,p),new A.q1(q.e,q.z,A.rG(B.Gg,p,p,p),"CPF",!0,p),A.d0(p,16,p),new A.q1(q.f,p,A.rG(B.Gm,p,p,p),"Nome",!0,p),A.d0(p,16,p),new A.q1(q.r,q.as,A.rG(B.Gl,p,p,p),"C\xf3digo Recebido (SMS)",!0,p)],m):A.b([],m))
 l.push(A.d0(p,20,p))
 s=A.atg(p,p,B.lK,p,p,p,p,p,p,B.cl,p,p,p,p,new A.aI(0,24,0,24),p,new A.cP(A.w8(10),B.t),p,p,A.dn(p,p,p,p,p,p,p,p,p,p,p,24,p,p,B.bp,p,p,!0,p,p,p,p,p,p,p,p),p)
@@ -38564,7 +38564,7 @@ $S:139}
 A.AQ.prototype={
 al(){return new A.Tx(A.aFE(),null,null)}}
 A.Tx.prototype={
-M(a){var s=null,r=A.b([B.m5,B.io],t.t_),q=A.auK(A.auA(A.apd("images/cross-blue4.png",B.a9,s),100,100,30,10,5)),p=A.d0(A.avz("images/logo.svg","Logo AKIPOSSO+"),40,s),o=t.E,n=A.atk(new A.z6(this.d,new A.abK(A.b([new A.Ma(s),new A.Mb(s),new A.Mc(s)],o),A.at([null,0],t.LO,t.S)),s)),m=A.atg(s,s,B.lK,s,s,s,s,s,s,B.cl,B.cl,32,s,s,new A.aI(32,32,32,32),s,s,s,s,A.dn(s,s,B.cl,s,s,s,s,s,s,s,s,24,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s)
+M(a){var s=null,r=A.b([B.m5,B.io],t.t_),q=A.auK(A.auA(A.apd("assets/images/cross-blue4.png",B.a9,s),100,100,30,10,5)),p=A.d0(A.avz("assets/images/logo.svg","Logo AKIPOSSO+"),40,s),o=t.E,n=A.atk(new A.z6(this.d,new A.abK(A.b([new A.Ma(s),new A.Mb(s),new A.Mc(s)],o),A.at([null,0],t.LO,t.S)),s)),m=A.atg(s,s,B.lK,s,s,s,s,s,s,B.cl,B.cl,32,s,s,new A.aI(32,32,32,32),s,s,s,s,A.dn(s,s,B.cl,s,s,s,s,s,s,s,s,24,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s)
 return A.apO(s,A.rd(new A.qG(A.r9(A.b([new A.da(B.iM,p,s),n,new A.da(B.mo,A.aDR(B.Gp,B.Ge,A.et("CLIQUE AQUI PARA ENTRAR",s,s,s,A.dn(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.bp,s,s,!0,s,s,s,s,s,s,s,s),B.cH,s),new A.akI(a),m),s),A.d0(s,16,s)],o),B.bd,B.bt,B.d8),this,q,s),B.G,s,new A.ei(s,s,s,s,s,new A.m9(B.eR,B.eQ,B.cK,r,s,s),B.aZ),s,s,s,s))}}
 A.akI.prototype={
 $0(){A.ap6(this.a).zJ("/auth",null)},
@@ -38577,7 +38577,7 @@ M(a){var s=null
 return A.rd(A.ash(A.j0(A.et("Card Example",s,s,s,A.dn(s,s,B.cl,s,s,s,s,s,s,s,s,24,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s),B.Eh),B.G,s,s,s,new A.aI(5,5,5,5),s,s)}}
 A.Ma.prototype={
 M(a){var s=null,r=A.et("Recomenda\xe7\xf5es de caminhos. Incentivos para voc\xea crescer",s,s,s,A.dn(s,s,B.cm,s,s,s,s,s,s,s,s,30,s,s,B.bp,s,s,!0,s,s,s,s,s,s,s,s),B.cH,s),q=A.d0(s,16,s),p=A.dn(s,s,B.cm,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)
-return A.r9(A.b([new A.da(B.mn,r,s),q,new A.da(B.mn,A.a9t(s,s,s,B.cJ,s,s,!0,s,A.c2(A.b([A.c2(s,A.dn(s,s,B.Eo,s,s,s,s,s,s,s,s,s,s,s,B.bp,s,s,!0,s,s,s,s,s,s,s,s),"a primeira IA virtual do mundo"),A.c2(s,s,", para melhorar de vida.")],t.VO),p,"Conte com a ajuda da Dora, "),B.cH,s,s,B.a8,B.aR),s),A.d0(s,16,s),A.atk(new A.da(B.iN,new A.M_(new A.abI(),B.i5,A.apd("images/dora-recomenda-1.png",B.eR,B.Af),s),s)),A.d0(s,16,s)],t.E),B.cY,B.bt,B.d8)}}
+return A.r9(A.b([new A.da(B.mn,r,s),q,new A.da(B.mn,A.a9t(s,s,s,B.cJ,s,s,!0,s,A.c2(A.b([A.c2(s,A.dn(s,s,B.Eo,s,s,s,s,s,s,s,s,s,s,s,B.bp,s,s,!0,s,s,s,s,s,s,s,s),"a primeira IA virtual do mundo"),A.c2(s,s,", para melhorar de vida.")],t.VO),p,"Conte com a ajuda da Dora, "),B.cH,s,s,B.a8,B.aR),s),A.d0(s,16,s),A.atk(new A.da(B.iN,new A.M_(new A.abI(),B.i5,A.apd("assets/images/dora-recomenda-1.png",B.eR,B.Af),s),s)),A.d0(s,16,s)],t.E),B.cY,B.bt,B.d8)}}
 A.abI.prototype={
 $1(a){return new A.m9(new A.dJ(0,0.85),B.eQ,B.cK,A.b([B.l,B.E],t.t_),null,null).ag4(new A.v(0,0,a.c-a.a,a.d-a.b))},
 $S:245}
