@@ -291,7 +291,8 @@ sections:
         </style>
 
         Desde sua fundação o APP AKIPOSSO+ contou com uma rede colaborativa de  muitos parceiros , seja disponibilizando suas oportunidades e programas sociais ou apoiando no  desenvolvimento da plataforma. 
-
+	
+	![](parc_wt1.png)
         ![](parc_scansource.png)
         ![](parc_governo_sp.png)
         ![](parc_unilever.png)
