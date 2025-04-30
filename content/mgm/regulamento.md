@@ -1,5 +1,5 @@
 ---
-title: Regulamento: AÇÃO DE INCENTIVO – “INDIQUE PARA O SUCESSO”
+title: "Regulamento: AÇÃO DE INCENTIVO – INDIQUE PARA O SUCESSO"
 date: 2025-04-30
 share: false
 # slug: politica-privacidade
