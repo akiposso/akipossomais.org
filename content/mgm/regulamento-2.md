@@ -12,12 +12,16 @@ share: false
 
 ### IDEALIZADORA/PROMOTORA:
 ASSOCIAÇÃO TODOS + – CNPJ: 38.186.323/0001-01
+
 ENDEREÇO: Av. Brigadeiro Faria Lima, 1811 – Cj. 305 – Jardim Paulistano
+
 CEP: 01452-001 – São Paulo – SP
+
 CARACTERÍSTICAS GERAIS DA AÇÃO:
 Trata-se de uma ação de incentivo com o objetivo de ampliar a base de usuários do aplicativo Akiposso+, por meio da indicação de amigos, promovendo soluções de mobilidade social.
 
 Área de Execução: Nacional
+
 Período: de 16.05.2025 a 01.08.2025  ou até o cumprimento das metas de inscrição e objetivos da ação.
 
 ### DESCRIÇÃO DO PROCESSO DA AÇÃO:

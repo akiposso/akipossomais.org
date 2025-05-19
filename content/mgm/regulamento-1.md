@@ -22,6 +22,7 @@ CEP: 01452-001 – São Paulo – SP
 Trata-se de uma ação de incentivo com o objetivo de ampliar a base de usuários do aplicativo Akiposso+, por meio da indicação de amigos, promovendo soluções de mobilidade social.
 
 Área de Execução: Nacional
+
 Período: de 16.05.2025 a 01.08.2025  ou até o cumprimento das metas de inscrição e objetivos da ação.
 
 ### DESCRIÇÃO DO PROCESSO DA AÇÃO:
