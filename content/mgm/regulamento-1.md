@@ -27,7 +27,7 @@ Período: de 16.05.2025 a 01.08.2025  ou até o cumprimento das metas de inscri�
 
 ### DESCRIÇÃO DO PROCESSO DA AÇÃO:
 1.	Serão convidados 40 (quarenta)  usuários,  denominados anfitriões para participar da ação.
-Após aceitarem o convite, os usuários anfitriões deverão indicar 10 (dez) amigos para baixarem o aplicativo Akiposso+.
+Após aceitarem o convite, os usuários anfitriões deverão indicar 5 (cinco) amigos para baixarem o aplicativo Akiposso+.
 2.	Para que o anfitrião seja elegível ao prêmio, os amigos indicados devem efetivamente baixar o aplicativo Akiposso+.
 3.	Os anfitriões deverão informar os telefones dos amigos convidados, no campo indicado, no aplicativo Akiposso+
 4.	Serão aceitas apenas indicações de novos usuários. Indicações de usuários já cadastrados no aplicativo serão desconsideradas.
@@ -37,7 +37,7 @@ Após aceitarem o convite, os usuários anfitriões deverão indicar 10 (dez) am
 8.	 O número de participantes é limitado, conforme os critérios aqui estabelecidos.
 
 ### PAGAMENTO DO PRÊMIO:
-1.	O prêmio será de R$ 80,00 (quarenta reais), pagos via PIX ao usuário anfitrião que cumprir a meta estabelecida.
+1.	O prêmio será de R$ 40,00 (quarenta reais), pagos via PIX ao usuário anfitrião que cumprir a meta estabelecida.
 2.	O pagamento será realizado em parcela única, em até 15 (quinze) dias após a verificação do cumprimento da meta. 
 3.	 Participarão da ação apenas 40 (quarenta) usuários anfitriões selecionados.
 

@@ -11,13 +11,14 @@ share: false
 </style>
 
 ### IDEALIZADORA/PROMOTORA:
+
 ASSOCIAÇÃO TODOS + – CNPJ: 38.186.323/0001-01
 
 ENDEREÇO: Av. Brigadeiro Faria Lima, 1811 – Cj. 305 – Jardim Paulistano
 
 CEP: 01452-001 – São Paulo – SP
 
-CARACTERÍSTICAS GERAIS DA AÇÃO:
+### CARACTERÍSTICAS GERAIS DA AÇÃO:
 Trata-se de uma ação de incentivo com o objetivo de ampliar a base de usuários do aplicativo Akiposso+, por meio da indicação de amigos, promovendo soluções de mobilidade social.
 
 Área de Execução: Nacional
@@ -49,6 +50,3 @@ A ação poderá ser divulgada por meio de cartazes, folhetos, sites ou outros c
 3.	Esta ação não se enquadra em nenhuma modalidade de sorteio ou competição, estando isenta de autorização prévia, conforme artigo 1º da Lei nº 5.768/71.
 4.	Consentimento de dados pessoais (LGPD):  Os dados pessoais fornecidos (como número de telefone dos indicados) serão utilizados exclusivamente para fins de verificação da elegibilidade e operação da campanha, respeitando as disposições da Lei Geral de Proteção de Dados (Lei 13.709/2018). Ao fornecer esses dados, o usuário declara ter consentimento dos amigos indicados para tal finalidade.
 5.	Serão desclassificados os participantes que cometerem fraude ou utilizarem meios ilícitos para burlar as regras da campanha, como criação de cadastros falsos ou repetidos.
-
-
-
